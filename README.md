@@ -14,8 +14,8 @@
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
 | [Microservicios en Java](https://github.com/gipsy-yuilet-dev/microserviciosEnJava) | Productor y consumidor Kafka con Spring Boot | Java, Spring Boot, Kafka, Actuator |
-| [Automatización de tareas](#) | Scripts para automatizar procesos repetitivos | Java, Python |
-| [Portafolio Multilingüe](#) | CV y proyectos traducidos a 5 idiomas | HTML, CSS, Markdown |
+| [Automatización de tareas](https://github.com/gipsy-yuilet-dev/Automatizaci-n-de-tareas) | Scripts para automatizar procesos repetitivos | Java, Python |
+| [Portafolio Multilingüe](https://github.com/gipsy-yuilet-dev/Portafolio-Multiling-e/tree/main) | CV y proyectos traducidos a 5 idiomas | HTML, CSS, Markdown |
 
 ---
 
