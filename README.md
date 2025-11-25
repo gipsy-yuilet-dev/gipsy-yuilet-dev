@@ -1,68 +1,50 @@
-# 👩‍💻 Julieta Fernanda Eyzaguirre Arenas
+# ¡Hola! Soy Julieta Eyzaguirre (gipsy-yuilet-dev) 👋
+### Ingeniera en Informática | Ciberseguridad | Cloud Enthusiast (OCI)
 
-**Desarrolladora Backend | Java | Spring Boot | Kafka | Ciberseguridad | Multilingüe**
+Soy una Ingeniera de Software apasionada por la intersección entre el **Desarrollo Full Stack** y la **Ciberseguridad**. Mi objetivo es construir aplicaciones que no solo sean funcionales y escalables, sino seguras desde el diseño (DevSecOps).
 
-📍 Rancagua, Chile  
-🎓 Ingeniera en Informática, mención Ciberseguridad  
-🌐 Español | Inglés | Francés | Portugués | Rumano  
-💡 Apasionada por la arquitectura de microservicios, automatización y buenas prácticas
-
----
-
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| [Microservicios en Java](https://github.com/gipsy-yuilet-dev/microserviciosEnJava) | Productor y consumidor Kafka con Spring Boot | Java, Spring Boot, Kafka, Actuator |
-| [Automatización de tareas](https://github.com/gipsy-yuilet-dev/Automatizaci-n-de-tareas) | Scripts para automatizar procesos repetitivos | Java, Python |
-| [Portafolio Multilingüe](https://github.com/gipsy-yuilet-dev/Portafolio-Multiling-e/tree/main) | CV y proyectos traducidos a 5 idiomas | HTML, CSS, Markdown |
+- 🔭 Actualmente trabajando en: **Integración de GenAI en flujos de desarrollo.**
+- 🌱 Aprendiendo sobre: **Arquitectura Cloud en Oracle OCI y AWS.**
+- 🛡️ Enfoque: **Seguridad Ofensiva/Defensiva y Desarrollo Seguro.**
+- 📍 Ubicación: **Rancagua, Chile**
 
 ---
 
-## 🗂️ Categorías de proyectos
+### 🛠️ Tech Stack & Herramientas
 
-### 🧠 Microservicios
-Arquitectura distribuida con Spring Boot, Kafka, REST y Actuator.
+**Backend & Lenguajes**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🔐 Ciberseguridad
-Prácticas seguras en desarrollo, configuración y monitoreo de aplicaciones.
+**Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### ⚙️ Automatización
-Scripts y herramientas para optimizar flujos de trabajo en entornos Windows y Linux.
-
-### 🌍 Multilingüe
-Proyectos y documentación técnica en español, inglés, francés, portugués y rumano.
-
-### 🧪 Pruebas y calidad
-Integración de pruebas unitarias, métricas personalizadas y monitoreo con Actuator.
-
-### 🧓 Old Devs
-Exploración y documentación de lenguajes clásicos:
-- COBOL
-- BASIC
-- Pascal
-- Fortran
-- Clipper
-- dBASE
-- FoxPro
-- Deplhi
-- Visual Basic
-- Ensamblador
-- Ada
+**Cloud & DevOps**
+![Oracle](https://img.shields.io/badge/Oracle_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📫 Contacto
+### 🚀 Proyectos Destacados
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/julieta-eyzaguirre-arenas-171721167/) *(actualiza con tu perfil)*
-- 📧 eyzaguirre.julieta@gmail.com *(actualiza con tu correo profesional)*
-- 🌐 [Portafolio web](https://tuportafolio.com) *(opcional)*
-- 🌐 aun en construccion
+🔹 **[E-Commerce-MVP-Secure](LINK_A_TU_REPO)**
+*Simulación de plataforma e-commerce con enfoque en validación segura de datos y arquitectura MVC.*
+
+🔹 **[Encriptador-Logico-SPA](LINK_A_TU_REPO)**
+*Aplicación Single Page Application (SPA) para encriptación de texto, demostrando lógica de algoritmos y manipulación del DOM.*
+
+---
+
+### 🏆 Certificaciones
+* **Oracle Cloud Infrastructure (OCI) Foundations Associate** (2024)
+* **Desarrollo Java Backend - Oracle ONE**
 
 ---
 
-## 🎯 Objetivo del perfil
-
-Este espacio está dedicado a compartir mi crecimiento como desarrolladora backend, autodidacta y multilingüe. Aquí documento mis proyectos, aprendizajes y contribuciones técnicas, con el objetivo de conectar con oportunidades profesionales locales e internacionales.
-
----
+📫 **¡Conectemos!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Eyzaguirre.julieta@gmail.com)
