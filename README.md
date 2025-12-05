@@ -34,7 +34,7 @@ Soy una Ingeniera de Software apasionada por la intersección entre el **Desarro
 🔹 **[E-Commerce-MVP-Secure](LINK_A_TU_REPO)**
 *Simulación de plataforma e-commerce con enfoque en validación segura de datos y arquitectura MVC.*
 
-🔹 **[Encriptador-Logico-SPA](LINK_A_TU_REPO)**
+🔹 **[Encriptador-Logico-SPA](https://github.com/gipsy-yuilet-dev/encriptadorLogicoSpa)**
 *Aplicación Single Page Application (SPA) para encriptación de texto, demostrando lógica de algoritmos y manipulación del DOM.*
 
 ---
